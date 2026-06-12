@@ -140,11 +140,11 @@ Frontend runs on → `http://localhost:5173`
 
 ## 📸 Screenshots
 
-|Login|
-|<img width="1439" height="808" alt="Screenshot 2026-06-12 at 13 06 04" src="https://github.com/user-attachments/assets/b736f545-22b6-4e8f-ab34-b924898f3e7a" />
-|Register|
+Login
+<img width="1439" height="808" alt="Screenshot 2026-06-12 at 13 06 04" src="https://github.com/user-attachments/assets/b736f545-22b6-4e8f-ab34-b924898f3e7a" />
+Register
   <img width="1439" height="808" alt="Screenshot 2026-06-12 at 13 06 22" src="https://github.com/user-attachments/assets/4e0e430b-01a8-431a-9eb2-c0bde3377c87" />
- |Dashboard|
+Dashboard
  <img width="1439" height="808" alt="Screenshot 2026-06-12 at 12 43 16" src="https://github.com/user-attachments/assets/2b54db65-3fb4-4bd5-bac4-ddf27bf3f989" />
 
  
