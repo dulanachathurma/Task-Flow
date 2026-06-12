@@ -142,5 +142,8 @@ Frontend runs on → `http://localhost:5173`
 
 | Login | Register | Dashboard |
 |-------|----------|-----------|
-| Purple gradient | Green gradient | Dual column layout |
+|<img width="1439" height="808" alt="Screenshot 2026-06-12 at 13 06 04" src="https://github.com/user-attachments/assets/b736f545-22b6-4e8f-ab34-b924898f3e7a" />
+ | <img width="1439" height="808" alt="Screenshot 2026-06-12 at 13 06 22" src="https://github.com/user-attachments/assets/4e0e430b-01a8-431a-9eb2-c0bde3377c87" />
+ | ![Uploading Screenshot 2026-06-12 at 12.43.16.png…]()
+ |
 # Task-Flow
