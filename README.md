@@ -70,3 +70,12 @@ NexaTask/
     │   └── index.css
     ├── index.html
     └── package.json
+
+<img width="1413" height="803" alt="Screenshot 2026-08-29 at 17 36 57" src="https://github.com/user-attachments/assets/79df2173-77d8-4d92-a0ef-1f444ef4a082" />
+
+<img width="1413" height="803" alt="Screenshot 2026-08-29 at 17 36 50" src="https://github.com/user-attachments/assets/02728e68-9f5c-4b63-a490-61ca64a74090" />
+
+<img width="331" height="241" alt="Screenshot 2026-08-29 at 17 30 42" src="https://github.com/user-attachments/assets/3f07ae75-718a-486b-ad91-79d770502cb2" />
+
+
+
