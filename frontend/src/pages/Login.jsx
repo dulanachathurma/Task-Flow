@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
-
+import { FaLock } from 'react-icons/fa'
 export default function Login() {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
@@ -25,10 +25,12 @@ export default function Login() {
   }
 
   return (
-    <div className="auth-page login-bg">
+    <div className="auth-page">
       <div className="auth-card">
-        <div className="auth-icon purple">📋</div>
-        <h2>Welcome</h2>
+        <div className="auth-icon">
+          <FaLock />
+        </div>
+        <h2>Welcome to NexaTask</h2>
         <p className="subtitle">Log in to manage your tasks</p>
 
         {error && <div className="error-msg">{error}</div>}
@@ -54,7 +56,7 @@ export default function Login() {
               required
             />
           </div>
-          <button className="auth-btn purple" type="submit" disabled={loading}>
+          <button className="auth-btn" type="submit" disabled={loading}>
             {loading ? 'Logging in...' : 'Log in →'}
           </button>
         </form>

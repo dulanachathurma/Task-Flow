@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
-
+import { FaUserPlus } from 'react-icons/fa'
 export default function Register() {
   
   const [name, setName] = useState('')
@@ -30,10 +30,12 @@ export default function Register() {
   }
 
   return (
-    <div className="auth-page register-bg">
+    <div className="auth-page">
       <div className="auth-card">
-        <div className="auth-icon green">®</div>
-        <h2>Create Your Account</h2>
+        <div className="auth-icon">
+          <FaUserPlus />
+        </div>
+        <h2>Create NexaTask Account</h2>
         <p className="subtitle">Start managing your tasks today</p>
 
         {error && <div className="error-msg">{error}</div>}
@@ -69,13 +71,13 @@ export default function Register() {
               required
             />
           </div>
-          <button className="auth-btn green" type="submit" disabled={loading}>
+          <button className="auth-btn" type="submit" disabled={loading}>
             {loading ? 'Creating account...' : 'Create account →'}
           </button>
         </form>
 
         <div className="auth-link">
-          Already have an account? <Link to="/login" className="green">Log in</Link>
+          Already have an account? <Link to="/login">Log in</Link>
         </div>
       </div>
     </div>
