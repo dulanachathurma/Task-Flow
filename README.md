@@ -10,7 +10,8 @@ A modern, responsive full-stack Task Management web application featuring a prem
 
 <img width="1413" height="803" alt="Screenshot 2026-08-29 at 17 36 50" src="https://github.com/user-attachments/assets/02728e68-9f5c-4b63-a490-61ca64a74090" />
 
-<img width="331" height="241" alt="Screenshot 2026-08-29 at 17 30 42" src="https://github.com/user-attachments/assets/3f07ae75-718a-486b-ad91-79d770502cb2" />
+<img width="1413" height="803" alt="Screenshot 2026-08-29 at 17 36 23" src="https://github.com/user-attachments/assets/3203a052-9437-4ede-9f75-9ba6a5b684a7" />
+
 
 
 ## 🎨 What's New in NexaTask (v2.0)
